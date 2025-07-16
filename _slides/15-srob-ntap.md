@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-srob was here too!
+srob was on the git-clone CLI!
 ===
 
 
